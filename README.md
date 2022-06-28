@@ -12,7 +12,7 @@
 
 消费是具有季节性的，七月的消费情况很难用一二月的消费数据来预测，所以需要进行数据划分，即滑窗法划分数据。
 
-![image-20220628133633903](C:\Users\TTTime\AppData\Roaming\Typora\typora-user-images\image-20220628133633903.png)
+![image](https://user-images.githubusercontent.com/76037078/176101515-d47b63a4-e0a6-422b-a284-6309eeb8172d.png)
 
  
 
@@ -97,5 +97,4 @@ Other
 ## 得分截图：
 
 ​	这是我学习别人的代码后，按照自己理解做的，AUC=0.7530是我最高的分（不是本项目中参数跑出来的，是在天池实验室的某一次的结果。由于调参不断地修改覆盖代码，无法还原此分数对应的代码，本仓库的代码auc应该在0.73左右）
-
-![image-20220628122203730](C:\Users\TTTime\AppData\Roaming\Typora\typora-user-images\image-20220628122203730.png)
+![image](https://user-images.githubusercontent.com/76037078/176101602-7f8cb698-60c8-44bb-b032-ef801063878e.png)
